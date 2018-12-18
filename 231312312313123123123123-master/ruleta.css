@@ -1,0 +1,337 @@
+#ruleta{
+    width:1300px;
+    height: 200px;
+    margin-top: 10%;
+    margin-left: 5%;
+
+}
+
+
+#color-rojo-1{
+background-color: #c72641;
+float:left;
+width: 100px;
+height: 100px;
+}
+#color-rojo-2{
+    background-color: #c72641;
+    float:left;
+    width: 100px;
+    height: 100px;
+    }
+ #color-rojo-3{
+        background-color: #c72641;
+        float:left;
+        width: 100px;
+        height: 100px;
+        }
+        #color-rojo-4{
+            background-color: #c72641;
+            float:left;
+            width: 100px;
+            height: 100px;
+            }
+            #color-rojo-5{
+                background-color: #c72641;
+                float:left;
+                width: 100px;
+                height: 100px;
+                }
+                #color-rojo-6{
+                    background-color: #c72641;
+                    float:left;
+                    width: 100px;
+                    height: 100px;
+                    }
+
+#color-negro-1{
+    background-color: #252223;
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+#color-negro-2{
+    background-color: #252223;
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+#color-negro-3{
+    background-color: #252223;
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+#color-negro-4{
+    background-color: #252223;
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+#color-negro-5{
+    background-color: #252223;
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+#color-negro-6{
+    background-color: #252223;
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+#color-negro-7{
+    background-color: #252223;
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+
+#color-cambiado-rojo-1{
+    background-color: #252223;
+    float: left;
+    width: 100px;
+    height: 100px;
+
+}
+#color-cambiado-rojo-2{
+    background-color: #252223;
+    float: left;
+    width: 100px;
+    height: 100px;
+
+}
+#color-cambiado-rojo-3{
+    background-color: #252223;
+    float: left;
+    width: 100px;
+    height: 100px;
+
+}
+#color-cambiado-rojo-4{
+    background-color: #252223;
+    float: left;
+    width: 100px;
+    height: 100px;
+
+}
+#color-cambiado-rojo-5{
+    background-color: #252223;
+    float: left;
+    width: 100px;
+    height: 100px;
+
+}
+#color-cambiado-rojo-6{
+    background-color: #252223;
+    float: left;
+    width: 100px;
+    height: 100px;
+
+}
+#color-cambiado-rojo-7{
+    background-color: #252223;
+    float: left;
+    width: 100px;
+    height: 100px;}
+
+#color-cambiado-negro-1{
+    background-color: #c72641;
+    float:left;
+    width: 100px;
+    height: 100px;
+}
+#color-cambiado-negro-2{
+    background-color: #c72641;
+    float:left;
+    width: 100px;
+    height: 100px;
+}
+#color-cambiado-negro-3{
+    background-color: #c72641;
+    float:left;
+    width: 100px;
+    height: 100px;
+}
+#color-cambiado-negro-4{
+    background-color: #c72641;
+    float:left;
+    width: 100px;
+    height: 100px;
+}
+#color-cambiado-negro-5{
+    background-color: #c72641;
+    float:left;
+    width: 100px;
+    height: 100px;
+}
+#color-cambiado-negro-6{
+    background-color: #c72641;
+    float:left;
+    width: 100px;
+    height: 100px;
+}
+#color-cambiado-negro-7{
+    background-color: #c72641;
+    float:left;
+    width: 100px;
+    height: 100px;
+}
+
+#color-13{
+    background-color: #1cc045;
+    float: left;
+    width: 100px;
+    height: 100px;
+    }
+#color-cambiado-verde-1{
+    background-color: #1cc045;
+    float: left;
+    width: 100px;
+    height: 100px;
+    
+}
+#color-negro-9{
+    background-color: #252223;
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+#color-rojo-9{
+    background-color: #c72641;
+    float:left;
+    width: 100px;
+    height: 100px;
+}
+#color-rojo-7{
+    background-color: #c72641;
+    float:left;
+    width: 100px;
+    height: 100px;
+}
+#color-negro-10{
+    background-color: #252223;
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+#color-rojo-10{
+    background-color: #c72641;
+    float:left;
+    width: 100px;
+    height: 100px;
+}
+#color-negro-10{
+    background-color: #252223;
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+#color-rojo-11{
+    background-color: #c72641;
+    float:left;
+    width: 100px;
+    height: 100px;
+}
+#color-negro-11{
+    background-color: #252223;
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+#color-verde-1{
+    background-color: #1cc045;
+    float: left;
+    width: 100px;
+    height: 100px;
+
+}
+#color-negro-13{
+    background-color: #252223;
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+#color-rojo-13{
+    background-color: #c72641;
+    float:left;
+    width: 100px;
+    height: 100px;
+}
+
+
+#color-rojo-15{
+    background-color: #c72641;
+    float:left;
+    width: 100px;
+    height: 100px;
+
+}
+#color-negro-15{
+    background-color: #252223;
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+#color-negro-8{
+    background-color: #252223;
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+#color-rojo-8{
+    background-color: #c72641;
+    float:left;
+    width: 100px;
+    height: 100px;
+}
+#color-rojo-19{
+    background-color: #c72641;
+    float:left;
+    width: 100px;
+    height: 100px;
+}
+
+
+#color-cambiado-rojo-8{
+    background-color: #252223;
+    float: left;
+    width: 100px;
+    height: 100px;}
+
+#color-cambiado-rojo-19{
+        background-color: #c72641;
+        float:left;
+        width: 100px;
+        height: 100px;
+    }
+    
+    #color-cambiado-negro-7{
+        background-color: #c72641;
+        float:left;
+        width: 100px;
+        height: 100px;
+    }
+    #color-cambiado-rojo-7{
+        background-color: #252223;
+        float: left;
+        width: 100px;
+        height: 100px;}
+        #color-cambiado-negro-9{
+            background-color: #252223;
+            float: left;
+            width: 100px;
+            height: 100px;
+        }
+        #color-cambiado-negro-8{
+            background-color: #c72641;
+            float:left;
+            width: 100px;
+            height: 100px;
+        }
+        
+        #color-cambiado-negro-19{
+            background-color: #252223;
+            float: left;
+            width: 100px;
+            height: 100px;}
