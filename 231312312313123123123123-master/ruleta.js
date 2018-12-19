@@ -224,7 +224,7 @@ function cambiarColorRojo(){
                                                                                 cambiarcolor = document.getElementById('color-rojo-6').id = 'color-cambiado-rojo-6';
                                                                                 cambiarcolor = document.getElementById('color-negro-1').id = 'color-cambiado-negro-1';
 
-                                                                                setTimeout(function(){   //15
+                                                                                setTimeout(function(){   //14
 
                                                                                   
                                                                                     cambiarcolor = document.getElementById('color-cambiado-rojo-1').id = 'color-rojo-1';   
@@ -240,46 +240,136 @@ function cambiarColorRojo(){
                                                                                     cambiarcolor = document.getElementById('color-cambiado-negro-6').id = 'color-negro-6';
                                                                                     cambiarcolor = document.getElementById('color-cambiado-rojo-6').id = 'color-rojo-6';
                                                                                     cambiarcolor = document.getElementById('color-cambiado-negro-1').id = 'color-negro-1';
-                                                                                   
-                                           
-                                                                        
+                                                                                 
+
+                                                                                    setTimeout(function(){   //15
+    
+                                                                                      
+                                                                                        cambiarcolor = document.getElementById('color-rojo-1').id = 'color-cambiado-rojo-1';   
+                                                                                        cambiarcolor = document.getElementById('color-negro-2').id = 'color-cambiado-negro-2';   
+                                                                                        cambiarcolor = document.getElementById('color-rojo-2').id = 'color-cambiado-rojo-2';  
+                                                                                        cambiarcolor = document.getElementById('color-negro-3').id = 'color-cambiado-negro-3';   
+                                                                                        cambiarcolor = document.getElementById('color-rojo-3').id = 'color-cambiado-rojo-3';   
+                                                                                        cambiarcolor = document.getElementById('color-negro-4').id = 'color-cambiado-negro-4';
+                                                                                        cambiarcolor = document.getElementById('color-13').id = 'color-cambiado-rojo-4';
+                                                                                        cambiarcolor = document.getElementById('color-rojo-4').id = 'color-13';
+                                                                                        cambiarcolor = document.getElementById('color-negro-5').id = 'color-cambiado-negro-5';
+                                                                                        cambiarcolor = document.getElementById('color-rojo-5').id = 'color-cambiado-rojo-5';
+                                                                                        cambiarcolor = document.getElementById('color-negro-6').id = 'color-cambiado-negro-6';
+                                                                                        cambiarcolor = document.getElementById('color-rojo-6').id = 'color-cambiado-rojo-6';
+                                                                                        cambiarcolor = document.getElementById('color-negro-1').id = 'color-cambiado-negro-1';
+                                                                                       
+                                                                                        setTimeout(function(){   //16
+    
+                                                                                      
+                                                                                            cambiarcolor = document.getElementById('color-cambiado-rojo-1').id = 'color-rojo-1';   
+                                                                                            cambiarcolor = document.getElementById('color-cambiado-negro-2').id = 'color-negro-2';   
+                                                                                            cambiarcolor = document.getElementById('color-cambiado-rojo-2').id = 'color-rojo-2';  
+                                                                                            cambiarcolor = document.getElementById('color-cambiado-negro-3').id = 'color-negro-3';   
+                                                                                            cambiarcolor = document.getElementById('color-cambiado-rojo-3').id = 'color-rojo-3';   
+                                                                                            cambiarcolor = document.getElementById('color-cambiado-negro-4').id = 'color-negro-4';
+                                                                                            cambiarcolor = document.getElementById('color-cambiado-rojo-4').id = 'color-rojo-4';
+                                                                                            cambiarcolor = document.getElementById('color-13').id = 'color-negro-5';
+                                                                                            cambiarcolor = document.getElementById('color-cambiado-negro-5').id = 'color-13';
+                                                                                            cambiarcolor = document.getElementById('color-cambiado-rojo-5').id = 'color-rojo-5';
+                                                                                            cambiarcolor = document.getElementById('color-cambiado-negro-6').id = 'color-negro-6';
+                                                                                            cambiarcolor = document.getElementById('color-cambiado-rojo-6').id = 'color-rojo-6';
+                                                                                            cambiarcolor = document.getElementById('color-cambiado-negro-1').id = 'color-negro-1';
+                                                                                           
+                                                                                            setTimeout(function(){   //17
+    
+                                                                                      
+                                                                                                cambiarcolor = document.getElementById('color-rojo-1').id = 'color-cambiado-rojo-1';   
+                                                                                                cambiarcolor = document.getElementById('color-negro-2').id = 'color-cambiado-negro-2';   
+                                                                                                cambiarcolor = document.getElementById('color-rojo-2').id = 'color-cambiado-rojo-2';  
+                                                                                                cambiarcolor = document.getElementById('color-negro-3').id = 'color-cambiado-negro-3';   
+                                                                                                cambiarcolor = document.getElementById('color-rojo-3').id = 'color-cambiado-rojo-3';   
+                                                                                                cambiarcolor = document.getElementById('color-negro-4').id = 'color-cambiado-negro-4';
+                                                                                                cambiarcolor = document.getElementById('color-rojo-4').id = 'color-cambiado-rojo-4';
+                                                                                                cambiarcolor = document.getElementById('color-negro-5').id = 'color-cambiado-negro-5';
+                                                                                                cambiarcolor = document.getElementById('color-13').id = 'color-cambiado-rojo-5';
+                                                                                                cambiarcolor = document.getElementById('color-rojo-5').id = 'color-13';
+                                                                                                cambiarcolor = document.getElementById('color-negro-6').id = 'color-cambiado-negro-6';
+                                                                                                cambiarcolor = document.getElementById('color-rojo-6').id = 'color-cambiado-rojo-6';
+                                                                                                cambiarcolor = document.getElementById('color-negro-1').id = 'color-cambiado-negro-1';
+
+                                                                                                setTimeout(function(){   //17
+    
+                                                                                      
+                                                                                                    cambiarcolor = document.getElementById('color-cambiado-rojo-1').id = 'color-rojo-1';   
+                                                                                                    cambiarcolor = document.getElementById('color-cambiado-negro-2').id = 'color-negro-2';   
+                                                                                                    cambiarcolor = document.getElementById('color-cambiado-rojo-2').id = 'color-rojo-2';  
+                                                                                                    cambiarcolor = document.getElementById('color-cambiado-negro-3').id = 'color-negro-3';   
+                                                                                                    cambiarcolor = document.getElementById('color-cambiado-rojo-3').id = 'color-rojo-3';   
+                                                                                                    cambiarcolor = document.getElementById('color-cambiado-negro-4').id = 'color-negro-4';
+                                                                                                    cambiarcolor = document.getElementById('color-cambiado-rojo-4').id = 'color-rojo-4';
+                                                                                                    cambiarcolor = document.getElementById('color-cambiado-negro-5').id = 'color-negro-5';
+                                                                                                    cambiarcolor = document.getElementById('color-cambiado-rojo-5').id = 'color-rojo-5';
+                                                                                                    cambiarcolor = document.getElementById('color-13').id = 'color-negro-6';
+                                                                                                    cambiarcolor = document.getElementById('color-cambiado-negro-6').id = 'color-13';
+                                                                                                    cambiarcolor = document.getElementById('color-cambiado-rojo-6').id = 'color-rojo-6';
+                                                                                                    cambiarcolor = document.getElementById('color-cambiado-negro-1').id = 'color-negro-1';
+
+                                                                                                    setTimeout(function(){   //18
+    
+                                                                                      
+                                                                                                        cambiarcolor = document.getElementById('color-rojo-1').id = 'color-cambiado-rojo-1';   
+                                                                                                        cambiarcolor = document.getElementById('color-negro-2').id = 'color-cambiado-negro-2';   
+                                                                                                        cambiarcolor = document.getElementById('color-rojo-2').id = 'color-cambiado-rojo-2';  
+                                                                                                        cambiarcolor = document.getElementById('color-negro-3').id = 'color-cambiado-negro-3';   
+                                                                                                        cambiarcolor = document.getElementById('color-rojo-3').id = 'color-cambiado-rojo-3';   
+                                                                                                        cambiarcolor = document.getElementById('color-negro-4').id = 'color-cambiado-negro-4';
+                                                                                                        cambiarcolor = document.getElementById('color-rojo-4').id = 'color-cambiado-rojo-4';
+                                                                                                        cambiarcolor = document.getElementById('color-negro-5').id = 'color-cambiado-negro-5';
+                                                                                                        cambiarcolor = document.getElementById('color-rojo-5').id = 'color-cambiado-rojo-5';
+                                                                                                        cambiarcolor = document.getElementById('color-negro-6').id = 'color-cambiado-negro-6';
+                                                                                                        cambiarcolor = document.getElementById('color-13').id = 'color-cambiado-rojo-6';
+                                                                                                        cambiarcolor = document.getElementById('color-rojo-6').id = 'color-13';
+                                                                                                        cambiarcolor = document.getElementById('color-negro-1').id = 'color-cambiado-negro-1';
+                                                                                                   
+                                                                                    
+                                                                              
+                                                                                                    }, 800); 
+                                                                                                }, 800); 
+                                                                                
+                                                                          
+        
+                                                                                            }, 800);   
+                                                                                            
+                                                                      
+    
+                                                                                        }, 700);   
+                      
                                                                   
 
+                                                                                    }, 600);   
+                  
+ }, 500);   
                                                                             
- }, 600);   
-  
-
-                                                                            
-}, 600);    
+}, 400);    
 
 
-}, 500);    
+}, 400);    
 
 
+}, 350);    
 
+}, 350);  
 
+}, 300);  
 
- 
+}, 300);      
 
+}, 250);  
+}, 250);  
 
-}, 1000);    
+}, 200);  
+}, 200);  
+}, 150);  
 
-}, 1000);  
-
-}, 1000);  
-
-}, 1000);      
-
-}, 1000);  
-}, 1000);  
-
-}, 1000);  
-}, 1000);  
-}, 1000);  
-
-}, 1000);  
-}, 1000);  
-}, 1000);  
+}, 150);  
+}, 100);  
+}, 100);  
 
 
 
